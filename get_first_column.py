@@ -1,6 +1,6 @@
 def get_first_column(data):
     """
-    Get the first column from a CSV file.
+    CSV faylidan birinchi ustunnidagi qiymatlarni chiqaring.
     Args:
         data(str): csv file.
     Return:
