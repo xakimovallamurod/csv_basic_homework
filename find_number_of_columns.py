@@ -1,6 +1,6 @@
 def find_number_of_columns(data):
     """
-    Find the number of columns in CSV.
+    CSV file dagi ustunlar sonini toping.
     Args:
         data(str): csv file.
     Return:
