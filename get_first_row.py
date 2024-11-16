@@ -1,6 +1,6 @@
 def get_first_row(data):   
    """
-   Get the first row from a CSV file.
+   CSV faylidan birinchi qatorning qiymatlarini chiqaring.
     Args:
         data(str): csv file.
     Return:
